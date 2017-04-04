@@ -1,0 +1,9 @@
+Coursework Three Results by Pavlos Siaperas
+The MDLSize of the your network for Hepatitis C data set
+3972.430238
+The MDLAccuracy of the your network for Hepatitis C data set
+-23672.1810271
+The MDLScore of the your network for Hepatitis C data set
+27644.6112651
+The score of your best network with one arc removed
+25916.7016818
